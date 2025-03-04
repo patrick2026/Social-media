@@ -1,6 +1,7 @@
 import { Header } from "./components/header.jsx";
 import { Post } from "./components/Post.jsx";
 import { Sidebar } from "./components/Sidebar.jsx";
+import { Comment } from "./components/Comment.jsx";
 
 import styles from "./components/App.module.css";
 
