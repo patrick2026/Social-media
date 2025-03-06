@@ -70,20 +70,3 @@ export function App() {
     </div>
   );
 }
-
-// export function App() {
-//   return (
-//     <div>
-//       <Header />
-
-//       <div className={styles.wrapper}>
-//         <Sidebar />
-
-//         <main>
-//           <Post author="Patrick Ventura" content="Fala galeraa 👋" />
-//           <Post author="Patrick Ventura" content="Fala galeraa 👋" />
-//         </main>
-//       </div>
-//     </div>
-//   );
-// }
