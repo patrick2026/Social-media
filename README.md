@@ -1,12 +1,33 @@
-# React + Vite
+📌 Descrição
+<br>
+<br>
+O Social Media é uma interface de rede social onde os usuários podem publicar postagens e fazer comentários. O objetivo do projeto é simular uma plataforma interativa usando React.js.
+<br>
+<br>
+🖥️ Interface
+<br>
+<br>
+A tela principal contém:
+<br>
+<br>
+📌 Área de Postagem: Onde os usuários podem escrever e publicar postagens.
+<br>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+💬 Seção de Comentários: Cada post pode receber comentários de outros usuários.
+<br>
 
-Currently, two official plugins are available:
+🎨 Layout Responsivo: Desenvolvido com HTML5 e CSS3 para se adaptar a diferentes tamanhos de tela.
+<br>
+<br>
+<br>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Tecnologias Utilizadas
+<br>
+<br>
+⚛️ React.js – Biblioteca principal para a construção da interface.
+<br>
 
-## Expanding the ESLint configuration
+💛 JavaScript – Linguagem usada para a lógica da aplicação.
+<br>
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🎨 HTML5 & CSS3 – Para estruturação e estilização da interface.
